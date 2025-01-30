@@ -33,21 +33,21 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://www.mazda.kz/upload/iblock/8e9/mazda-cx-5_2022.jpg](https://avatars.mds.yandex.net/i?id=94fe6dea9aefc959ce40c849ee755609b1a85a9c-10512135-images-thumbs&n=13)" alt="Mazda CX-5">
+                <img src="https://avatars.mds.yandex.net/get-autoru-vos/4249454/1f5a80d96984a8e0fb606a46b90ec1c0/1200x900" alt="Mazda CX-5">
                 <div class="card-content">
                     <h3>Mazda CX-5</h3>
                     <p>Цена: 16 500 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="https://cdn.motor1.com/images/mgl/YzGQ4/s1/2021-toyota-corolla-hatchback.jpg](https://avatars.mds.yandex.net/i?id=858d2f3757207cb76596389773400ba6_l-5163220-images-thumbs&n=13)" alt="Toyota Corolla">
+                <img src="https://avatars.mds.yandex.net/i?id=1e5bb1b00804468ad2dd05b2e472b165fcde5440-8102231-images-thumbs&n=13" alt="Toyota Corolla">
                 <div class="card-content">
                     <h3>Toyota Corolla</h3>
                     <p>Цена: 12 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="https://www.mercedes-benz.kz/content/dam/mb-nafta/kazakhstan/mercedes-benz-vehicle-picture-gallery.jpg](https://robbreport.com/wp-content/uploads/2023/04/24eclass00.jpg?w=1000)" alt="Mercedes-Benz E-Class">
+                <img src="https://avatars.mds.yandex.net/i?id=07531d71f7dd230cc46684e18c8db497_l-8963933-images-thumbs&n=13" alt="Mercedes-Benz E-Class">
                 <div class="card-content">
                     <h3>Mercedes-Benz E-Class</h3>
                     <p>Цена: 45 000 000₸</p>
